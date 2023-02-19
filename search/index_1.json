@@ -8,11 +8,11 @@
 "section": "En desarrollo"
 },{
 "id": 1,
-"content": "1",
-"icon": "fas fa-network-wired",
+"content": "1 pajina pagina de inicio home",
+"icon": "fab fa-windows",
 "href": "./../assets/index/search/1.html",
-"title": "Developing",
-"section": "En desarrollo"
+"title": "Home",
+"section": "Pagina principal"
 },{
 "id": 2,
 "content": "2",
@@ -68,7 +68,7 @@
 "icon": "fas fa-hand-holding-usd",
 "href": "./../assets/index/search/9.html",
 "title": "Monetizacion",
-"section": "En desarrollo"
+"section": "Productos, Servicios"
 },{
 "id": 10,
 "content": "10",
@@ -138,7 +138,7 @@
 "icon": "fas fa-sliders-h",
 "href": "./../assets/index/search/19.html",
 "title": "Personalizacion",
-"section": "En desarrollo"
+"section": "Iconos, Tooltips, Paleta colores"
 },{
 "id": 20,
 "content": "20",
@@ -436,17 +436,17 @@
 },{
 "id": 62,
 "content": "62",
-"icon": "fas fa-network-wired",
+"icon": "fas fa-file-alt",
 "href": "./../assets/index/search/62.html",
-"title": "Developing",
-"section": "En desarrollo"
+"title": "Detalles del proyecto",
+"section": "informacion de inicio"
 },{
 "id": 63,
 "content": "63",
-"icon": "fas fa-network-wired",
+"icon": "fas fa-link",
 "href": "./../assets/index/search/63.html",
-"title": "Developing",
-"section": "En desarrollo"
+"title": "Links",
+"section": "enlaces de sitios externos utilies"
 },{
 "id": 64,
 "content": "64",
