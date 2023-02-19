@@ -1,0 +1,38 @@
+[
+{
+"id": 0,
+"content": "seccion de la capacitacion",
+"icon": "fas fa-brain",
+"href": "file:///F:/assets/index/search/5.html",
+"title": "Capacitacion",
+"section": "Seccion de capacitacion"
+},{
+"id": 1,
+"content": "seccion server servidor",
+"icon": "fas fa-server",
+"href": "file:///F:/assets/index/search/4.html",
+"title": "Server",
+"section": "Almacenamiento en general"
+},{
+"id": 2,
+"content": "codigo prefabricado fragmento code index seccion section",
+"icon": "fas fa-code",
+"href": "file:///F:/assets/index/search/14.html",
+"title": "Codigo",
+"section": "Usos y ejemplos practicos y preconfigurados"
+},{
+"id": 3,
+"content": "configuracion floppy documentacion",
+"icon": "fas fa-cogs",
+"href": "file:///F:/assets/index/search/23.html",
+"title": "Configuracion",
+"section": "configuracion floppy"
+},{
+"id": 4,
+"content": "libros leer lectura aprendizaje",
+"icon": "fas fa-swatchbook",
+"href": "file:///F:/assets/index/search/7.html",
+"title": "Libros",
+"section": "Encuentra libros de todas las categorías para lo que necesitas con rapidez y seguridad."
+}
+]
