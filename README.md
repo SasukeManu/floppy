@@ -5,9 +5,9 @@ Floppy es un proyecto desarrollado por Carlos Arturo, Mikaela Naomi, Franco Cabr
 
 Las actualizaciónes son gracias a la colaboración de:
 
-— Carlos Arturo
-— Mikaela Naomi
-— Franco Cabral
-— Carlos Manuel
+- Carlos Arturo
+- Mikaela Naomi
+- Franco Cabral
+- Carlos Manuel
 
 ya saben lo típico... si quieres ir rápido ve solo, sino pues bueno yo voy con estas personas 〜(꒪꒳꒪)〜
