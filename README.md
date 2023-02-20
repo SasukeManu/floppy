@@ -1,6 +1,6 @@
-# Floppy ðŸ’¾
+# Floppy ??
 La descripcion no es necesaria
 
-Floppy es un proyecto desarrollado por Carlos Arturo, Mikaela Naomi, Franco Cabral y Carlos Manuel con el objetivo de profundizar en su aprendizaje en los temas de Front-End, Back-End y Full-Stack. El proyecto consiste en la creaciÃ³n de una aplicaciÃ³n web para presentar la informaciÃ³n de productos electrÃ³nicos con herramientas basadas en HTML, CSS y JavaScript. Esta aplicaciÃ³n utiliza APIs externas para acceder a datos que posteriomente son mostrados en pantalla.
+Floppy es un proyecto desarrollado por Carlos Arturo, Mikaela Naomi, Franco Cabral y Carlos Manuel con el objetivo de profundizar en su aprendizaje en los temas de Front-End, Back-End y Full-Stack. El proyecto consiste en la creaci¨®n de una aplicaci¨®n web para presentar la informaci¨®n de productos electr¨®nicos con herramientas basadas en HTML, CSS y JavaScript. Esta aplicaci¨®n utiliza APIs externas para acceder a datos que posteriomente son mostrados en pantalla.
 
-ya saben lo tÃ­pico... si quieres ir rÃ¡pido ve solo, sino pues bueno yo voy con estas personas ã€œ(ê’ªê’³ê’ª)ã€œ
+ya saben lo t¨ªpico... si quieres ir r¨¢pido ve solo, sino pues bueno yo voy con estas personas ?(???)?
