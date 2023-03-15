@@ -110,21 +110,21 @@
 "icon": "fas fa-robot",
 "href": "./search/15.html",
 "title": "Bots",
-"section": "_0_En desarrollo"
+"section": "Agentes en diferentes areas en las que puedes necesitar ayuda."
 },{
 "id": 16,
 "content": "16",
 "icon": "_0_fas fa-network-wired",
 "href": "./search/16.html",
-"title": "_0_Developing",
-"section": "_0_En desarrollo"
+"title": "_16_Developing",
+"section": "_16_En desarrollo"
 },{
 "id": 17,
 "content": "17",
-"icon": "_0_fas fa-network-wired",
+"icon": "_17_fas fa-network-wired",
 "href": "./search/17.html",
-"title": "_0_Developing",
-"section": "_0_En desarrollo"
+"title": "_17_Developing",
+"section": "_17_En desarrollo"
 },{
 "id": 18,
 "content": "18",
