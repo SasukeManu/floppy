@@ -1,11 +1,11 @@
 [
 {
 "id": 0,
-"content": "0",
-"icon": "_0_fas fa-network-wired",
+"content": "404 error de busqueda 0",
+"icon": "fab fa-windows",
 "href": "./search/0.html",
-"title": "_0_Developing",
-"section": "_0_En desarrollo"
+"title": "404",
+"section": "Error 404"
 },{
 "id": 1,
 "content": "1 pajina pagina de inicio home",
@@ -120,11 +120,11 @@
 "section": "_16_En desarrollo"
 },{
 "id": 17,
-"content": "17",
-"icon": "_17_fas fa-network-wired",
+"content": "17 Banco de imagenes image en general",
+"icon": "fas fa-image",
 "href": "./search/17.html",
-"title": "_17_Developing",
-"section": "_17_En desarrollo"
+"title": "Imagen",
+"section": "Banco de imagenes en general"
 },{
 "id": 18,
 "content": "18",
@@ -141,11 +141,11 @@
 "section": "Iconos, Tooltips, Paleta colores"
 },{
 "id": 20,
-"content": "20",
+"content": "20 trabajo pedidos y solicitudes en general",
 "icon": "fas fa-briefcase",
 "href": "./search/20.html",
 "title": "Trabajo",
-"section": "_20_En desarrollo"
+"section": "Pedidos y solicitudes en general"
 },{
 "id": 21,
 "content": "21",
@@ -240,10 +240,10 @@
 },{
 "id": 34,
 "content": "34",
-"icon": "_0_fas fa-network-wired",
+"icon": "fas fa-hdd",
 "href": "./search/34.html",
-"title": "_0_Developing",
-"section": "_0_En desarrollo"
+"title": "Almacenamiento",
+"section": "donde se almacenan los datos"
 },{
 "id": 35,
 "content": "35",
