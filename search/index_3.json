@@ -422,10 +422,10 @@
 },{
 "id": 60,
 "content": "60",
-"icon": "_60_fas fa-network-wired",
+"icon": "fas fa-search",
 "href": "./../../../search/60.html",
-"title": "_60_Developing",
-"section": "_60_En desarrollo"
+"title": "Buscador",
+"section": "Buscador de floppy"
 },{
 "id": 61,
 "content": "61",
@@ -861,5 +861,5 @@
 "href": "./../../../search/122.html",
 "title": "_122_Developing",
 "section": "_122_En desarrollo"
-},
+}
 ]
