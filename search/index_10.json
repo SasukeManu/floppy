@@ -500,7 +500,7 @@
 "id": 71,
 "content": "icono blogger fontawesome icon 71",
 "icon": "fab fa-blogger",
-"href": "./../../../../../../../../../personalizacion/fontawesome/floppy_index_fontawesome.html#blogger",
+"href": "./../../../../../../../../../../../../core/personalizacion/fontawesome/floppy_index_fontawesome.html#blogger",
 "title": "Icono Blogger",
 "section": "Fontawesome"
 }
@@ -508,16 +508,16 @@
 "id": 72,
 "content": "icono book libro fontawesome icon 72",
 "icon": "fas fa-book",
-"href": "./../../../../../../../../../personalizacion/fontawesome/floppy_index_fontawesome.html#book",
+"href": "./../../../../../../../../../../../../core/personalizacion/fontawesome/floppy_index_fontawesome.html#book",
 "title": "Icono Libro",
 "section": "Fontawesome"
 },{
 "id": 73,
-"content": "73",
-"icon": "_73_fas fa-network-wired",
+"content": "71",
+"icon": "_71_fas fa-network-wired",
 "href": "./../../../../../../../../../../assets/index/search/73.html",
-"title": "_73_Developing",
-"section": "_73_En desarrollo"
+"title": "_71_Developing",
+"section": "_71_En desarrollo"
 },{
 "id": 74,
 "content": "74",

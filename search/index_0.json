@@ -498,7 +498,7 @@
 "section": "_70_En desarrollo"
 },{
 "id": 71,
-"content": "icono blogger fontawesome icon 71",
+"content": "icono blogger fontawesome icon",
 "icon": "fab fa-blogger",
 "href": "./../../core/personalizacion/fontawesome/floppy_index_fontawesome.html#blogger",
 "title": "Icono Blogger",
@@ -506,18 +506,18 @@
 }
 ,{
 "id": 72,
-"content": "icono book libro fontawesome icon 72",
+"content": "icono book libro fontawesome icon",
 "icon": "fas fa-book",
 "href": "./../../core/personalizacion/fontawesome/floppy_index_fontawesome.html#book",
 "title": "Icono Libro",
 "section": "Fontawesome"
 },{
 "id": 73,
-"content": "73",
-"icon": "_73_fas fa-network-wired",
-"href": "./search/73.html",
-"title": "_73_Developing",
-"section": "_73_En desarrollo"
+"content": "71",
+"icon": "_71_fas fa-network-wired",
+"href": "./search/71.html",
+"title": "_71_Developing",
+"section": "_71_En desarrollo"
 },{
 "id": 74,
 "content": "74",
