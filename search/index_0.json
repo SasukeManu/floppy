@@ -861,5 +861,19 @@
 "href": "./search/122.html",
 "title": "_122_Developing",
 "section": "_122_En desarrollo"
+},{
+"id": 123,
+"content": "72",
+"icon": "_72_fas fa-network-wired",
+"href": "./search/72.html",
+"title": "_72_Developing",
+"section": "_72_En desarrollo"
+},{
+"id": 124,
+"content": "73",
+"icon": "_73_fas fa-network-wired",
+"href": "./search/73.html",
+"title": "_73_Developing",
+"section": "_73_En desarrollo"
 }
 ]
