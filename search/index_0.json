@@ -886,21 +886,21 @@
 "id": 126,
 "content": "124",
 "icon": "_124_fas fa-network-wired",
-"href": "./assets/index/search/124.html",
+"href": "./search/124.html",
 "title": "_124_Developing",
 "section": "_124_En desarrollo"
 },{
 "id": 127,
 "content": "125",
 "icon": "_125_fas fa-network-wired",
-"href": "./assets/index/search/125.html",
+"href": "./search/125.html",
 "title": "_125_Developing",
 "section": "_125_En desarrollo"
 },{
 "id": 128,
 "content": "126",
 "icon": "_126_fas fa-network-wired",
-"href": "./assets/index/search/126.html",
+"href": "./search/126.html",
 "title": "_126_Developing",
 "section": "_126_En desarrollo"
 }
